@@ -1,0 +1,14 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Default Dark+",
+    "terminal.integrated.fontSize": 12,
+    "workbench.iconTheme": "vscode-icons",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": false,
+    "[python]": {
+        "editor.formatOnSave": true,
+    },
+    "python.formatting.blackArgs": [
+        "-l 120"
+    ],
+}
