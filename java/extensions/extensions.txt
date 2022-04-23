@@ -1,0 +1,13 @@
+Pivotal.vscode-boot-dev-pack
+Pivotal.vscode-spring-boot
+redhat.java
+VisualStudioExptTeam.vscodeintellicode
+vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
+vscjava.vscode-java-pack
+vscjava.vscode-java-test
+vscjava.vscode-maven
+vscjava.vscode-spring-boot-dashboard
+vscjava.vscode-spring-initializr
+vscode-icons-team.vscode-icons
+WakaTime.vscode-wakatime
