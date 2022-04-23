@@ -3,4 +3,6 @@
     "workbench.colorTheme": "Default Dark+",
     "terminal.integrated.fontSize": 12,
     "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.hovers.currentLine.over": "line",
 }

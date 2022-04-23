@@ -3,5 +3,7 @@
     "workbench.colorTheme": "Default Dark+",
     "redhat.telemetry.enabled": false,
     "terminal.integrated.fontSize": 12,
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.hovers.currentLine.over": "line",
 }

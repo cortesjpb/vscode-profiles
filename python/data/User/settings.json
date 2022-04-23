@@ -11,4 +11,6 @@
     "python.formatting.blackArgs": [
         "-l 120"
     ],
+    "vsicons.dontShowNewVersionMessage": true,
+    "gitlens.hovers.currentLine.over": "line",
 }
