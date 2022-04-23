@@ -1,3 +1,4 @@
+eamodio.gitlens
 ms-python.python
 ms-python.vscode-pylance
 ms-toolsai.jupyter
